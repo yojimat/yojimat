@@ -12,6 +12,7 @@
   <img align="center" alt="vntc-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
   <img align="center" alt="vntc-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg">
   <img align="center" alt="vntc-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+  <img align="center" alt="vntc-Rust" height="50" width="50" src="https://www.rust-lang.org/logos/rust-logo-blk.svg"
 </div>
   
 ##  
